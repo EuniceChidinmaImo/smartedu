@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://eunicechidinmaimo.github.io/smartedge-landing",
+  "homepage": "https://eunicechidinmaimo.github.io/smartedu",
   
   "scripts": {
   "dev": "vite",
